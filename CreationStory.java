@@ -26,9 +26,9 @@ public class CreationStory {
         creationEvents.add(new CreationEvent(1, "God created light", "💡"));
         creationEvents.add(new CreationEvent(2, "God created the sky", "🌌"));
         creationEvents.add(new CreationEvent(3, "God created dry land, seas, plants, and trees", "🌍"));
-        creationEvents.add(new CreationEvent(4, "God created the Sun, Moon, and stars", "🌞🌜⭐⭐"));
+        creationEvents.add(new CreationEvent(4, "God created the Sun, Moon, and stars", "🌞🌜⭐"));
         creationEvents.add(new CreationEvent(5, "God created the sea creatures and birds", "🐟🦅"));
-        creationEvents.add(new CreationEvent(6, "God created animals and humans", "🐘👫 🐘👫"));
+        creationEvents.add(new CreationEvent(6, "God created animals and humans", "🐘👫"));
         creationEvents.add(new CreationEvent(7, "God rested", "😴"));
 
         for (CreationEvent event : creationEvents) {
